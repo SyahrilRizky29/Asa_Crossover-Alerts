@@ -25,7 +25,7 @@ Sistem asisten trading otomatis berbasis **n8n** yang dirancang untuk memantau p
 
 ## ⚙️ Cara Instalasi
 1. Clone repositori ini.
-2. Impor file `Asa_Trading_Otomatis.json`
+2. Impor file `Asa_RSI_MA.json`
 3. Konfigurasikan Chat ID dan API Token Telegram pada node Telegram.
 4. Aktifkan workflow.
 
